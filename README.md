@@ -1,3 +1,6 @@
+[![Linter check](https://github.com/ReYaNOW/mediasoft-test-task/actions/workflows/pyci.yml/badge.svg)](https://github.com/ReYaNOW/mediasoft-test-task/actions/workflows/pyci.yml)  
+
+
 ## Описание
 Тестовое задание для MediaSoft
 
