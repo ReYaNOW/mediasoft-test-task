@@ -12,13 +12,13 @@ REST API, созданное при помощи DRF для работы с су
 Стек: Python3.11, DRF, psycopg2, Docker
 
 ## Документация
-Открыть документацию можно по [ссылке ИЗМЕНИТЬЬЬЬ](https://avito-tech-test-task.onrender.com/docs)  
+Открыть документацию можно по [ссылке](https://mediasoft-test-task.onrender.com/docs)  
 Там же можно поделать запросы к сервису
 
 # Использование
 
 
- - Открыть задеплоенный на [тестовый вариант ИЗМЕНИТЬЬЬЬ](https://avito-tech-test-task.onrender.com)
+ - Открыть задеплоенный на [тестовый вариант](https://mediasoft-test-task.onrender.com)
  - [Развернуть сервис локально](#Как-развернуть-сервис-локально)
 
 ![App preview](https://github.com/ReYaNOW/ReYaNOW/blob/main/Images/mediasoft_preview.png?raw=true)
