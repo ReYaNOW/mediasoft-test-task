@@ -4,7 +4,7 @@ PORT ?= 8080
 install:
 	poetry install --no-root
 	make migrate
-	poetry run python manage.py createsuperuser --noinput --username admin --email admin@mail.com
+	poetry run python manage.py createsuperuser --noinput --username admin --email admin@mail.com || true
 
 start:
 	poetry run python manage.py runserver 0.0.0.0:$(PORT)
