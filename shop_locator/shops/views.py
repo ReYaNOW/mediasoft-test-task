@@ -18,7 +18,6 @@ from shop_locator.utils import PROPERTIES
 class CityListCreateView(generics.ListCreateAPIView):
     queryset = City.objects.all()
     serializer_class = CitySerializer
-    actions = {'get': 'list', 'post': 'create'}
 
 
 class StreetListCreateView(generics.ListCreateAPIView):
